@@ -1,0 +1,484 @@
+[11:53:11][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[11:53:14][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2232 ms
+[11:53:14][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[11:53:16][INFO ][FrameworkServlet.java:546] - Completed initialization in 2688 ms
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:53:48][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.core.ApplicationHttpRequest@782ff06b
+[11:53:48][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:53:48][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.HomeController.mainViewForward()
+[11:53:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:53:48][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[11:53:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : mainViewForward() 메소드 매개변수 갯수 : 0
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:53:48][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.core.ApplicationHttpRequest@782ff06b
+[11:53:48][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:53:48][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.HomeController.mainViewForward()
+[11:53:48][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : ModelAndView [view="common/main"; model={}]
+[11:53:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:53:48][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.core.ApplicationHttpRequest@782ff06b
+[11:53:48][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:53:48][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.HomeController.mainViewForward()
+[11:53:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:53:48][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:53:48][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:53:48][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:53:48][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:53:48][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:53:48][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:53:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:53:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:53:48][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[11:53:48][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[11:53:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:53:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : noticeTop3() 메소드 매개변수 갯수 : 1
+[11:53:48][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : boardTop3() 메소드 매개변수 갯수 : 1
+[11:53:48][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:53:48][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:53:48][INFO ][NoticeController.java:33] - ntop3.do run....
+[11:53:48][INFO ][BoardController.java:45] - btop3.do run....
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:53:49][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectNewTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:53:49][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:53:49][INFO ][AroundLogAdvice.java:35] - selectTop3() 메소드 수행에 걸린 시간 : 370(ms)초
+[11:53:49][INFO ][AroundLogAdvice.java:35] - selectNewTop3() 메소드 수행에 걸린 시간 : 370(ms)초
+[11:53:49][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:53:49][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:53:49][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:53:49][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:53:49][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:53:49][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:53:49][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:53:49][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:53:49][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:53:49][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:53:49][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:53:49][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:53:49][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:53:49][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:53:49][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:53:49][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:53:49][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:53:49][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:53:49][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:54:55][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:54:55][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:54:55][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:54:55][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[11:54:55][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : noticeTop3() 메소드 매개변수 갯수 : 1
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:54:55][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:54:55][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:54:55][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:54:55][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[11:54:55][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : boardTop3() 메소드 매개변수 갯수 : 1
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:54:55][INFO ][NoticeController.java:33] - ntop3.do run....
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:54:55][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectNewTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:54:55][INFO ][BoardController.java:45] - btop3.do run....
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:54:55][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:54:55][INFO ][AroundLogAdvice.java:35] - selectNewTop3() 메소드 수행에 걸린 시간 : 7(ms)초
+[11:54:55][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:54:55][INFO ][AroundLogAdvice.java:35] - selectTop3() 메소드 수행에 걸린 시간 : 9(ms)초
+[11:54:55][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:54:55][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:54:55][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:54:55][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:54:55][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:54:55][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:54:55][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:54:55][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:54:55][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:54:55][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:54:55][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:54:55][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:54:55][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:54:55][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:54:55][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:01][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:01][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:01][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:01][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.member.controller.MemberController.moveLoginPage()
+[11:55:01][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:01][DEBUG][LoggerInterceptor.java:32] - /second/loginPage.do
+[11:55:01][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:01][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : moveLoginPage() 메소드 매개변수 갯수 : 0
+[11:55:01][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:01][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:01][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:01][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.member.controller.MemberController.moveLoginPage()
+[11:55:01][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : ModelAndView [view="member/loginPage"; model={}]
+[11:55:01][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:01][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:01][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:01][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:01][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.member.controller.MemberController.moveLoginPage()
+[11:55:01][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.member.controller.MemberController.loginMethod(com.kh.second.member.model.vo.Member,javax.servlet.http.HttpSession,org.springframework.web.bind.support.SessionStatus,org.springframework.ui.Model)
+[11:55:06][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:06][DEBUG][LoggerInterceptor.java:32] - /second/login.do
+[11:55:06][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : loginMethod() 메소드 매개변수 갯수 : 4
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : Member [userid=admin, userpwd=admin, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null]
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.session.StandardSessionFacade@55d00095
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : org.springframework.web.bind.support.SimpleSessionStatus@58bc4bc3
+[11:55:06][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : {member=Member [userid=admin, userpwd=admin, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null], org.springframework.validation.BindingResult.member=org.springframework.validation.BeanPropertyBindingResult: 0 errors}
+[11:55:06][INFO ][MemberController.java:38] - login.do : admin, admin
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectLogin() 메소드 매개변수 갯수 : 1
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : Member [userid=admin, userpwd=admin, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null]
+[11:55:06][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectLogin() 메소드 첫번째 전달인자 정보 : Member [userid=admin, userpwd=admin, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null]
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectLogin() 메소드 매개변수 갯수 : 1
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : Member [userid=admin, userpwd=admin, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null]
+[11:55:06][INFO ][AfterReturningAdvice.java:30] - Fri Sep 11 11:55:06 KST 2020$admin$님이 접속하셨습니다.
+[11:55:06][INFO ][AroundLogAdvice.java:35] - selectLogin() 메소드 수행에 걸린 시간 : 13(ms)초
+[11:55:06][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.member.controller.MemberController.loginMethod(com.kh.second.member.model.vo.Member,javax.servlet.http.HttpSession,org.springframework.web.bind.support.SessionStatus,org.springframework.ui.Model)
+[11:55:06][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : ModelAndView [view="common/main"; model={member=Member [userid=admin, userpwd=admin, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null], org.springframework.validation.BindingResult.member=org.springframework.validation.BeanPropertyBindingResult: 0 errors}]
+[11:55:06][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.member.controller.MemberController.loginMethod(com.kh.second.member.model.vo.Member,javax.servlet.http.HttpSession,org.springframework.web.bind.support.SessionStatus,org.springframework.ui.Model)
+[11:55:06][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:06][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:06][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[11:55:06][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:06][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:06][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : noticeTop3() 메소드 매개변수 갯수 : 1
+[11:55:06][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:06][INFO ][NoticeController.java:33] - ntop3.do run....
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : boardTop3() 메소드 매개변수 갯수 : 1
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:55:06][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectNewTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:06][INFO ][BoardController.java:45] - btop3.do run....
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:55:06][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:55:06][INFO ][AroundLogAdvice.java:35] - selectNewTop3() 메소드 수행에 걸린 시간 : 2(ms)초
+[11:55:06][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:06][INFO ][AroundLogAdvice.java:35] - selectTop3() 메소드 수행에 걸린 시간 : 3(ms)초
+[11:55:06][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:06][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:06][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:06][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:06][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:11][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:11][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:11][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:11][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[11:55:11][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : noticeTop3() 메소드 매개변수 갯수 : 1
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:11][INFO ][NoticeController.java:33] - ntop3.do run....
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:55:11][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectNewTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:55:11][INFO ][AroundLogAdvice.java:35] - selectNewTop3() 메소드 수행에 걸린 시간 : 2(ms)초
+[11:55:11][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:11][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:11][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:11][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:11][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:11][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:11][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:11][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:11][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:11][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:11][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[11:55:11][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : boardTop3() 메소드 매개변수 갯수 : 1
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:11][INFO ][BoardController.java:45] - btop3.do run....
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:55:11][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:55:11][INFO ][AroundLogAdvice.java:35] - selectTop3() 메소드 수행에 걸린 시간 : 3(ms)초
+[11:55:11][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:11][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:11][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:11][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:11][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:11][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:11][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:11][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:11][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:19][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:19][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:19][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:19][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[11:55:19][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : noticeTop3() 메소드 매개변수 갯수 : 1
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:19][INFO ][NoticeController.java:33] - ntop3.do run....
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:55:19][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectNewTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:19][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:19][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:19][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:55:19][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[11:55:19][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : boardTop3() 메소드 매개변수 갯수 : 1
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:19][INFO ][BoardController.java:45] - btop3.do run....
+[11:55:19][INFO ][AroundLogAdvice.java:35] - selectNewTop3() 메소드 수행에 걸린 시간 : 7(ms)초
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:55:19][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:55:19][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:19][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:19][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:19][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:19][INFO ][AroundLogAdvice.java:35] - selectTop3() 메소드 수행에 걸린 시간 : 4(ms)초
+[11:55:19][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:55:19][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:55:19][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:19][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:19][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:19][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:19][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:55:19][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:55:19][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:55:19][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:55:19][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:55:19][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:56:12][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:56:12][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:56:12][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:56:12][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public org.springframework.web.servlet.ModelAndView com.kh.second.member.controller.MemberController.myInfoMehod(java.lang.String,org.springframework.web.servlet.ModelAndView)
+[11:56:12][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:56:12][DEBUG][LoggerInterceptor.java:32] - /second/myinfo.do
+[11:56:12][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:56:12][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : myInfoMehod() 메소드 매개변수 갯수 : 2
+[11:56:12][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : admin
+[11:56:12][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : ModelAndView [view=[null]; model=null]
+[11:56:12][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectMember() 메소드 매개변수 갯수 : 1
+[11:56:12][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : admin
+[11:56:12][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectMember() 메소드 첫번째 전달인자 정보 : admin
+[11:56:12][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectMember() 메소드 매개변수 갯수 : 1
+[11:56:12][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : admin
+[11:56:12][INFO ][AroundLogAdvice.java:35] - selectMember() 메소드 수행에 걸린 시간 : 6(ms)초
+[11:56:12][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:56:12][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:56:12][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:56:12][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:56:12][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public org.springframework.web.servlet.ModelAndView com.kh.second.member.controller.MemberController.myInfoMehod(java.lang.String,org.springframework.web.servlet.ModelAndView)
+[11:56:12][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : ModelAndView [view="member/myInfoPage"; model={modelAndView=ModelAndView [view="member/myInfoPage"; model={member=Member [userid=admin, userpwd=admin, username=관리자, gender=M, age=35, phone=010-1111-9999, email=admin@ncs.kr, hobby=game,reading,music, etc=관리자입니다., enroll_date=2016-06-25, lastmodified=2020-08-20, login_ok=Y]}], org.springframework.validation.BindingResult.modelAndView=org.springframework.validation.BeanPropertyBindingResult: 0 errors, member=Member [userid=admin, userpwd=admin, username=관리자, gender=M, age=35, phone=010-1111-9999, email=admin@ncs.kr, hobby=game,reading,music, etc=관리자입니다., enroll_date=2016-06-25, lastmodified=2020-08-20, login_ok=Y], org.springframework.validation.BindingResult.member=org.springframework.validation.BeanPropertyBindingResult: 0 errors}]
+[11:56:12][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:56:12][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:56:12][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:56:12][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:56:12][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public org.springframework.web.servlet.ModelAndView com.kh.second.member.controller.MemberController.myInfoMehod(java.lang.String,org.springframework.web.servlet.ModelAndView)
+[11:56:12][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:56:21][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:56:21][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:56:21][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:56:21][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public org.springframework.web.servlet.ModelAndView com.kh.second.member.controller.MemberController.moveUpdateView(java.lang.String,org.springframework.web.servlet.ModelAndView)
+[11:56:21][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:56:21][DEBUG][LoggerInterceptor.java:32] - /second/mupview.do
+[11:56:21][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:56:21][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : moveUpdateView() 메소드 매개변수 갯수 : 2
+[11:56:21][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : admin
+[11:56:21][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : ModelAndView [view=[null]; model=null]
+[11:56:21][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectMember() 메소드 매개변수 갯수 : 1
+[11:56:21][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : admin
+[11:56:21][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectMember() 메소드 첫번째 전달인자 정보 : admin
+[11:56:21][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectMember() 메소드 매개변수 갯수 : 1
+[11:56:21][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : admin
+[11:56:21][INFO ][AroundLogAdvice.java:35] - selectMember() 메소드 수행에 걸린 시간 : 3(ms)초
+[11:56:21][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:56:21][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:56:21][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:56:21][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:56:21][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public org.springframework.web.servlet.ModelAndView com.kh.second.member.controller.MemberController.moveUpdateView(java.lang.String,org.springframework.web.servlet.ModelAndView)
+[11:56:21][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : ModelAndView [view="member/memberUpdatePage"; model={modelAndView=ModelAndView [view="member/memberUpdatePage"; model={member=Member [userid=admin, userpwd=admin, username=관리자, gender=M, age=35, phone=010-1111-9999, email=admin@ncs.kr, hobby=game,reading,music, etc=관리자입니다., enroll_date=2016-06-25, lastmodified=2020-08-20, login_ok=Y]}], org.springframework.validation.BindingResult.modelAndView=org.springframework.validation.BeanPropertyBindingResult: 0 errors, member=Member [userid=admin, userpwd=admin, username=관리자, gender=M, age=35, phone=010-1111-9999, email=admin@ncs.kr, hobby=game,reading,music, etc=관리자입니다., enroll_date=2016-06-25, lastmodified=2020-08-20, login_ok=Y], org.springframework.validation.BindingResult.member=org.springframework.validation.BeanPropertyBindingResult: 0 errors}]
+[11:56:21][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:56:22][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:56:22][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:56:22][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:56:22][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public org.springframework.web.servlet.ModelAndView com.kh.second.member.controller.MemberController.moveUpdateView(java.lang.String,org.springframework.web.servlet.ModelAndView)
+[11:56:22][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.HomeController.mainViewForward()
+[11:57:02][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:57:02][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[11:57:02][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : mainViewForward() 메소드 매개변수 갯수 : 0
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.HomeController.mainViewForward()
+[11:57:02][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : ModelAndView [view="common/main"; model={}]
+[11:57:02][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.HomeController.mainViewForward()
+[11:57:02][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:57:02][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:57:02][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[11:57:02][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : noticeTop3() 메소드 매개변수 갯수 : 1
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:57:02][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:57:02][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[11:57:02][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:57:02][INFO ][NoticeController.java:33] - ntop3.do run....
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : boardTop3() 메소드 매개변수 갯수 : 1
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:57:02][INFO ][BoardController.java:45] - btop3.do run....
+[11:57:02][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectNewTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectNewTop3() 메소드 매개변수 갯수 : 0
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:57:02][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectTop3() 메소드 첫번째 전달인자 정보 : 0
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectTop3() 메소드 매개변수 갯수 : 0
+[11:57:02][INFO ][AroundLogAdvice.java:35] - selectNewTop3() 메소드 수행에 걸린 시간 : 3(ms)초
+[11:57:02][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:57:02][INFO ][AroundLogAdvice.java:35] - selectTop3() 메소드 수행에 걸린 시간 : 4(ms)초
+[11:57:02][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:57:02][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@6c55efc5
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@3ded68c5
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.notice.controller.NoticeController.noticeTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:57:02][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:57:02][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:57:02][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:57:02][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:57:02][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:57:02][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardTop3(javax.servlet.http.HttpServletResponse) throws java.io.UnsupportedEncodingException
+[11:57:02][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[11:57:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : preHandle() 메소드 매개변수 갯수 : 3
+[11:57:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:57:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:57:06][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardList(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[11:57:06][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[11:57:06][DEBUG][LoggerInterceptor.java:32] - /second/blist.do
+[11:57:06][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[11:57:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : boardList() 메소드 매개변수 갯수 : 2
+[11:57:06][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:57:06][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : {}
+[11:57:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectListCount() 메소드 매개변수 갯수 : 0
+[11:57:06][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectListCount() 메소드 첫번째 전달인자 정보 : 0
+[11:57:06][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectListCount() 메소드 매개변수 갯수 : 0
+[11:57:07][INFO ][AroundLogAdvice.java:35] - selectListCount() 메소드 수행에 걸린 시간 : 3(ms)초
+[11:57:07][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:57:07][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectList() 메소드 매개변수 갯수 : 2
+[11:57:07][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : 1
+[11:57:07][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : 10
+[11:57:07][INFO ][BeforeAdviceOutOfPointcut.java:22] - [사전처리] : selectList() 메소드 첫번째 전달인자 정보 : 1
+[11:57:07][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : selectList() 메소드 매개변수 갯수 : 2
+[11:57:07][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : 1
+[11:57:07][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : 10
+[11:57:07][INFO ][AroundLogAdvice.java:35] - selectList() 메소드 수행에 걸린 시간 : 5(ms)초
+[11:57:07][INFO ][AfterAdvice.java:23] - *Impl 클래스 메소드 실행 후 작동 : 서비스 로직 수행이 종료된 후 무조건 작동됨.
+[11:57:07][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : postHandle() 메소드 매개변수 갯수 : 4
+[11:57:07][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:57:07][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:57:07][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardList(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[11:57:07][INFO ][BeforeAdvice.java:38] - 3번째 매개변수 정보 : ModelAndView [view="board/boardListView"; model={list=[Board [board_num=28, board_writer=user01, board_title=ddf22, board_content=fdfdff, board_original_filename=1.png, board_rename_filename=20200909094748.png, board_ref=28, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=14, board_date=2020-09-08], Board [board_num=27, board_writer=user01, board_title=dd, board_content=dd, board_original_filename=null, board_rename_filename=null, board_ref=27, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=4, board_date=2020-09-08], Board [board_num=26, board_writer=user01, board_title=ddd, board_content=ddd, board_original_filename=null, board_rename_filename=20200908164722., board_ref=26, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=2, board_date=2020-09-08], Board [board_num=25, board_writer=user01, board_title=ffd, board_content=ff, board_original_filename=null, board_rename_filename=20200908164458., board_ref=25, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=1, board_date=2020-09-08], Board [board_num=24, board_writer=user01, board_title=eedd, board_content=eeddfdd, board_original_filename=null, board_rename_filename=20200908163939., board_ref=24, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=16, board_date=2020-09-08], Board [board_num=23, board_writer=user01, board_title=ddfdf1d, board_content=ddd1d, board_original_filename=null, board_rename_filename=20200908150827076, board_ref=23, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=14, board_date=2020-09-08], Board [board_num=22, board_writer=user01, board_title=dd, board_content=dd, board_original_filename=null, board_rename_filename=20200908155042893.txt, board_ref=22, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=5, board_date=2020-09-08], Board [board_num=21, board_writer=user01, board_title=파일없는 등록, board_content=null, board_original_filename=null, board_rename_filename=null, board_ref=21, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=2, board_date=2020-08-26], Board [board_num=20, board_writer=user01, board_title=등록하기, board_content=등록, board_original_filename=Photoshop_CS6_Serial.txt, board_rename_filename=20200826170339.txt, board_ref=20, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=3, board_date=2020-08-26], Board [board_num=15, board_writer=user02, board_title=래파(Wrapper) 란, board_content=필터가 나꿔챈 요청에 대한 데이터 처리를 담당하는 클래스이다., board_original_filename=null, board_rename_filename=null, board_ref=15, board_reply_ref=0, board_level=0, board_reply_seq=0, board_readcount=22, board_date=2020-08-20]], currentPage=1, maxPage=3, startPage=1, endPage=3, listCount=26}]
+[11:57:07][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[11:57:07][INFO ][BeforeAdvice.java:34] - [메소드 실행전 확인] : afterCompletion() 메소드 매개변수 갯수 : 4
+[11:57:07][INFO ][BeforeAdvice.java:38] - 0번째 매개변수 정보 : org.apache.catalina.connector.RequestFacade@877b841
+[11:57:07][INFO ][BeforeAdvice.java:38] - 1번째 매개변수 정보 : org.apache.catalina.connector.ResponseFacade@4e5b2abe
+[11:57:07][INFO ][BeforeAdvice.java:38] - 2번째 매개변수 정보 : public java.lang.String com.kh.second.board.controller.BoardController.boardList(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[11:57:07][DEBUG][LoggerInterceptor.java:58] - ================END===============
