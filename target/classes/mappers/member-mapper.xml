@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE mapper PUBLIC
+"-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="memberMapper">
+
+	<resultMap id="resultMember" type="Member">
+		<id property="userid" column="userid" />
+		<result property="userpwd" column="userpwd" />
+		<result property="username" column="username" />
+		<result property="gender" column="gender" />
+		<result property="age" column="age" />
+		<result property="phone" column="phone" />
+		<result property="email" column="email" />
+		<result property="hobby" column="hobby" />
+		<result property="etc" column="etc" />
+		<result property="enroll_date" column="enroll_date" />
+		<result property="lastmodified" column="lastmodified" />
+		<result property="login_ok" column="login_ok" />
+	</resultMap>
+
+	<resultMap id="resultList" type="Member">
+		<result property="userid" column="userid" />
+		<result property="userpwd" column="userpwd" />
+		<result property="username" column="username" />
+		<result property="gender" column="gender" />
+		<result property="age" column="age" />
+		<result property="phone" column="phone" />
+		<result property="email" column="email" />
+		<result property="hobby" column="hobby" />
+		<result property="etc" column="etc" />
+		<result property="enroll_date" column="enroll_date" />
+		<result property="lastmodified" column="lastmodified" />
+		<result property="login_ok" column="login_ok" />
+	</resultMap>
+				
+	<select id="loginCheck" parameterType="Member" resultMap="resultMember">
+		select * from member where userid = #{ userid } and userpwd = #{ userpwd } and login_ok = 'Y'
+	</select>
+	
+	<select id="selectList" resultMap="resultList">
+		select * from member
+	</select>
+	
+	<select id="selectMember" parameterType="string" resultType="Member">
+		select * from member
+		where userid = #{ uid }
+	</select>
+	
+	<select id="selectSearchUserid" parameterType="string" resultMap="resultList">
+		select * from member 
+		where userid like '%' || #{ keyword } || '%'
+	</select>
+	
+	<select id="selectSearchGender" parameterType="string" resultMap="resultList">
+		select * from member where gender = #{ keyword }
+	</select>
+	
+	<select id="selectSearchAge" parameterType="int" resultMap="resultList">
+		select * from member
+		<if test="age == 60">
+			where age >= #{ keyword }
+		</if>
+		<if test="age != 60">
+			where age between #{ age } and #{ age } + 9
+		</if>
+	</select>
+	
+	<select id="selectSearchEnrollDate" parameterType="com.kh.second.member.model.vo.SearchDate" resultMap="resultList">
+		select * from member where enroll_date between #{ begin } and #{ end }
+	</select>
+	
+	<select id="selectSearchLoginOk" parameterType="string" resultMap="resultList">
+		select * from member where login_ok = #{ keyword }
+	</select>
+	
+	<select id="selectCheckId" parameterType="string" resultType="int">
+		select count(userid) from member where userid = #{ uid }
+	</select>
+	
+	
+	<insert id="insertMember" parameterType="Member">
+		insert into member values(#{ userid }, #{ userpwd }, #{ username }, #{ gender }, #{ age }, 
+		#{ phone }, #{ email }, #{ hobby }, #{ etc }, sysdate, sysdate, default)
+	</insert>
+	
+	<update id="updateMember" parameterType="Member">
+		update member set userpwd = #{ userpwd }, age = #{ age }, phone =#{ phone }, email =#{ email }, hobby = #{ hobby }, 
+		etc = #{ etc } where userid = #{ userid }
+	</update>
+	
+	<update id="updateLoginOK" parameterType="Member">
+		update member 
+		set login_ok = #{ login_ok } 
+		where userid = #{ userid }
+	</update>
+	
+	<delete id="deleteMember" parameterType="string">
+		delete from member where userid = #{ uid }
+	</delete>
+</mapper>

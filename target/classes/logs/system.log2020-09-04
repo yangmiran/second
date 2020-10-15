@@ -1,0 +1,757 @@
+[10:11:46][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[10:11:48][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2085 ms
+[10:11:48][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[10:11:51][INFO ][FrameworkServlet.java:546] - Completed initialization in 2190 ms
+[10:13:47][INFO ][NoticeController.java:33] - ntop3.do run....
+[10:13:47][INFO ][BoardController.java:35] - btop3.do run....
+[12:24:45][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:24:47][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2071 ms
+[12:24:47][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:24:49][INFO ][FrameworkServlet.java:546] - Completed initialization in 2170 ms
+[12:24:59][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:24:59][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:24:59][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:24:59][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:24:59][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:24:59][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:24:59][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:24:59][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:24:59][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:24:59][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:24:59][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:24:59][INFO ][BoardController.java:35] - btop3.do run....
+[12:24:59][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:25:00][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:25:00][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:25:00][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:25:00][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:25:33][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:25:35][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2102 ms
+[12:25:35][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:25:37][INFO ][FrameworkServlet.java:546] - Completed initialization in 2220 ms
+[12:25:37][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:25:37][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:25:37][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:25:37][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:25:37][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:25:38][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:25:38][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:25:38][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:25:38][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:25:38][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:25:38][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:25:38][INFO ][BoardController.java:35] - btop3.do run....
+[12:25:38][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:25:38][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:25:38][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:25:38][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:25:38][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:26:15][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:26:15][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:26:15][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:26:15][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:26:15][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:26:15][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:26:15][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:26:15][INFO ][BoardController.java:35] - btop3.do run....
+[12:26:15][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:26:15][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:26:15][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:26:15][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:26:17][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:26:17][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:26:17][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:26:17][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:26:17][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:26:17][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:26:17][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:26:17][INFO ][BoardController.java:35] - btop3.do run....
+[12:26:17][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:26:17][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:26:17][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:26:17][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:27:42][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:27:44][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2116 ms
+[12:27:44][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:27:46][INFO ][FrameworkServlet.java:546] - Completed initialization in 2362 ms
+[12:27:47][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:27:47][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:27:47][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:27:47][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:27:47][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:27:47][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:27:47][INFO ][BoardController.java:35] - btop3.do run....
+[12:27:47][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:27:47][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:27:47][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:27:47][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:27:47][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:27:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:27:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:27:48][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:27:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:27:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:27:48][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:27:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:27:48][INFO ][BoardController.java:35] - btop3.do run....
+[12:27:48][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:27:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:27:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:27:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:27:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:27:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:27:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:27:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:27:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:28:28][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:28:30][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2159 ms
+[12:28:30][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:28:32][INFO ][FrameworkServlet.java:546] - Completed initialization in 2206 ms
+[12:28:32][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:28:32][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:28:32][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:28:32][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:28:32][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:28:32][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:28:32][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:28:32][INFO ][BoardController.java:35] - btop3.do run....
+[12:28:33][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:28:33][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:28:33][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:28:33][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:28:34][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:28:34][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:28:34][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:28:34][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:28:35][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:28:35][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:28:35][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:28:35][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:28:35][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:28:35][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:28:35][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:28:35][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:28:35][INFO ][BoardController.java:35] - btop3.do run....
+[12:28:35][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:28:35][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:28:35][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:28:35][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:13][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:29:15][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2140 ms
+[12:29:15][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:29:17][INFO ][FrameworkServlet.java:546] - Completed initialization in 2275 ms
+[12:29:17][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:17][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:29:17][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:17][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:17][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:29:17][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:17][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:17][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:29:17][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:17][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:17][INFO ][BoardController.java:35] - btop3.do run....
+[12:29:17][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:29:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:18][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:29:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:18][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:29:18][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:29:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:18][INFO ][BoardController.java:35] - btop3.do run....
+[12:29:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:38][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:29:40][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2106 ms
+[12:29:40][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:29:43][INFO ][FrameworkServlet.java:546] - Completed initialization in 2238 ms
+[12:29:43][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:43][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:29:43][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:43][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:43][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:29:43][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:43][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:43][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:29:43][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:43][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:43][INFO ][BoardController.java:35] - btop3.do run....
+[12:29:43][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:29:43][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:43][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:43][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:29:43][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:29:43][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:43][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:29:43][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:29:43][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:29:43][INFO ][BoardController.java:35] - btop3.do run....
+[12:29:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:29:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:29:46][WARN ][DispatcherServlet.java:1248] - No mapping for GET /second/board/blist.do
+[12:33:02][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:33:04][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2118 ms
+[12:33:04][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:33:06][INFO ][FrameworkServlet.java:546] - Completed initialization in 2161 ms
+[12:33:41][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:33:41][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:33:41][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:33:41][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:33:41][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:33:41][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:33:41][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:33:41][INFO ][BoardController.java:35] - btop3.do run....
+[12:33:42][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:33:42][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:33:42][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:33:42][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:33:44][WARN ][DispatcherServlet.java:1248] - No mapping for GET /second/board/blist.do
+[12:36:00][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:36:03][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2049 ms
+[12:36:03][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:36:05][INFO ][FrameworkServlet.java:546] - Completed initialization in 2180 ms
+[12:36:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:18][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:36:18][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:36:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:18][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:36:18][INFO ][BoardController.java:35] - btop3.do run....
+[12:36:19][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:19][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:36:19][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:19][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:19][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:19][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:19][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:19][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:20][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:20][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:20][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:36:20][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:20][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:20][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:36:20][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:20][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:36:20][INFO ][BoardController.java:35] - btop3.do run....
+[12:36:20][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:20][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:20][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:20][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:20][WARN ][DispatcherServlet.java:1248] - No mapping for GET /second/blist.do
+[12:36:38][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:38][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:36:38][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:38][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:36:38][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:38][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:36:38][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:38][INFO ][BoardController.java:35] - btop3.do run....
+[12:36:38][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:38][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:38][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:38][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:40][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:40][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:36:40][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:40][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:36:40][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:40][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:36:40][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:40][INFO ][BoardController.java:35] - btop3.do run....
+[12:36:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:44][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:44][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:36:44][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:36:44][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:36:44][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:44][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:36:44][INFO ][BoardController.java:35] - btop3.do run....
+[12:36:44][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:36:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:36:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:36:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:48:59][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:49:01][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2101 ms
+[12:49:01][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:49:04][INFO ][FrameworkServlet.java:546] - Completed initialization in 2356 ms
+[12:49:04][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:04][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:49:04][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:04][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:05][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:05][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:05][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:49:05][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:05][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:05][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:49:05][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:05][INFO ][BoardController.java:36] - btop3.do run....
+[12:49:05][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:49:05][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:05][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:05][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:05][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:35][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[12:49:37][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2146 ms
+[12:49:37][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[12:49:39][INFO ][FrameworkServlet.java:546] - Completed initialization in 2350 ms
+[12:49:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:39][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:49:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:39][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:49:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:39][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[12:49:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:39][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:49:39][INFO ][BoardController.java:36] - btop3.do run....
+[12:49:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:39][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:49:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:39][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:49:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:39][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:49:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:39][INFO ][BoardController.java:36] - btop3.do run....
+[12:49:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:42][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:42][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[12:49:42][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[12:49:42][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:42][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[12:49:42][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[12:49:42][INFO ][NoticeController.java:33] - ntop3.do run....
+[12:49:42][INFO ][BoardController.java:36] - btop3.do run....
+[12:49:42][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:42][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[12:49:42][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[12:49:42][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:02:10][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[14:02:13][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2179 ms
+[14:02:13][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[14:02:15][INFO ][FrameworkServlet.java:546] - Completed initialization in 2259 ms
+[14:02:15][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:02:15][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[14:02:15][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:02:15][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:02:16][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:02:16][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:02:16][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:02:16][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[14:02:16][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[14:02:16][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:02:16][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:02:16][INFO ][BoardController.java:36] - btop3.do run....
+[14:02:16][INFO ][NoticeController.java:33] - ntop3.do run....
+[14:02:17][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:02:17][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:02:17][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:02:17][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:02:18][WARN ][DispatcherServlet.java:1248] - No mapping for GET /second/blist.do
+[14:07:35][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[14:07:37][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2065 ms
+[14:07:37][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[14:07:39][INFO ][FrameworkServlet.java:546] - Completed initialization in 2139 ms
+[14:07:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:07:39][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[14:07:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:07:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:07:39][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[14:07:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:07:39][INFO ][BoardController.java:36] - btop3.do run....
+[14:07:39][INFO ][NoticeController.java:33] - ntop3.do run....
+[14:07:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:07:40][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:07:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:07:40][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:07:44][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:07:44][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[14:07:44][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:07:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:07:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:07:44][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:07:44][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[14:07:44][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:07:44][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:07:44][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[14:07:44][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:07:44][INFO ][NoticeController.java:33] - ntop3.do run....
+[14:07:44][INFO ][BoardController.java:36] - btop3.do run....
+[14:07:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:07:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:07:44][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:07:44][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:07:45][WARN ][DispatcherServlet.java:1248] - No mapping for GET /second/blist.do
+[14:07:47][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:07:47][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[14:07:47][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:07:47][INFO ][NoticeController.java:33] - ntop3.do run....
+[14:07:47][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:07:47][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[14:07:47][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:07:47][INFO ][BoardController.java:36] - btop3.do run....
+[14:07:47][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:07:47][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:07:47][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:07:47][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:32:03][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[14:32:06][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2106 ms
+[14:32:06][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[14:32:08][INFO ][FrameworkServlet.java:546] - Completed initialization in 2177 ms
+[14:32:08][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:32:08][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[14:32:08][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:32:08][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:32:09][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:32:09][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:32:09][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[14:32:09][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:32:09][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:32:09][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[14:32:09][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:32:09][INFO ][BoardController.java:36] - btop3.do run....
+[14:32:09][INFO ][NoticeController.java:33] - ntop3.do run....
+[14:32:10][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:32:10][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:32:10][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:32:10][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:32:29][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:32:29][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[14:32:29][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:32:29][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:32:29][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:33:59][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[14:34:01][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2109 ms
+[14:34:01][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[14:34:03][INFO ][FrameworkServlet.java:546] - Completed initialization in 2205 ms
+[14:34:03][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:34:03][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[14:34:03][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:34:03][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:34:04][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[14:34:30][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[14:34:32][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2052 ms
+[14:34:32][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[14:34:34][INFO ][FrameworkServlet.java:546] - Completed initialization in 2231 ms
+[14:34:43][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[14:34:43][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[14:34:43][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[14:34:43][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[14:34:43][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:14:55][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[15:14:58][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2111 ms
+[15:14:58][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[15:15:00][INFO ][FrameworkServlet.java:546] - Completed initialization in 2207 ms
+[15:15:33][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[15:15:35][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2075 ms
+[15:15:35][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[15:15:37][INFO ][FrameworkServlet.java:546] - Completed initialization in 2180 ms
+[15:15:44][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:15:44][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:15:44][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[15:15:44][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[15:15:44][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:15:44][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:15:45][INFO ][BoardController.java:36] - btop3.do run....
+[15:15:45][INFO ][NoticeController.java:33] - ntop3.do run....
+[15:15:45][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:15:45][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:15:45][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:15:45][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:15:49][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:15:49][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[15:15:49][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:15:49][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:15:50][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:15:50][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:15:50][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[15:15:50][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:15:50][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:15:50][INFO ][BoardController.java:36] - btop3.do run....
+[15:15:50][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[15:15:50][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:15:50][INFO ][NoticeController.java:33] - ntop3.do run....
+[15:15:50][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:15:50][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:15:50][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:15:50][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:15:58][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:15:58][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[15:15:58][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:15:58][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:15:58][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:09][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:09][DEBUG][LoggerInterceptor.java:32] - /second/bcrypto.do
+[15:17:09][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:09][INFO ][TestController.java:49] - 전송온 암호 : 1234
+[15:17:09][INFO ][TestController.java:53] - 암호화된 패스워드 : $2a$10$gDCulIn7uzVOWRP8wgXDe.S.1e2XsrNyVwfuOPdDp8SJ4MftfYK1., 글자수 : 60
+[15:17:09][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:09][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:09][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:09][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[15:17:09][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:09][INFO ][BoardController.java:36] - btop3.do run....
+[15:17:09][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:09][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[15:17:09][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:09][INFO ][NoticeController.java:33] - ntop3.do run....
+[15:17:09][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:09][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:09][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:09][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:30][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:30][DEBUG][LoggerInterceptor.java:32] - /second/moveAjax.do
+[15:17:30][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:30][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:30][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:31][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:31][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[15:17:31][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:31][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:31][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:39][WARN ][DispatcherServlet.java:1248] - No mapping for POST /second/loginBcrypto.do
+[15:17:43][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:43][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[15:17:43][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:43][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:43][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:48][DEBUG][LoggerInterceptor.java:32] - /second/bcrypto.do
+[15:17:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:48][INFO ][TestController.java:49] - 전송온 암호 : 4569f
+[15:17:48][INFO ][TestController.java:53] - 암호화된 패스워드 : $2a$10$PTuTOlUL7LDJyNqsVJp5euIWYoXndWbOZ0O/LvZvo1wdCFRfSla5W, 글자수 : 60
+[15:17:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:48][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[15:17:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:48][INFO ][NoticeController.java:33] - ntop3.do run....
+[15:17:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:48][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[15:17:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:48][INFO ][BoardController.java:36] - btop3.do run....
+[15:17:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:48][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:48][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:17:51][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:17:51][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[15:17:51][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:17:51][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:17:51][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:20:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:20:18][DEBUG][LoggerInterceptor.java:32] - /second/bcrypto.do
+[15:20:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:20:18][INFO ][TestController.java:49] - 전송온 암호 : 79764646546464646
+[15:20:18][INFO ][TestController.java:53] - 암호화된 패스워드 : $2a$10$XxE7cZlKtq10ofvyHYqwx.oa08qZFVe97xfMuBD7Lzy.KeIgljOVC, 글자수 : 60
+[15:20:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:20:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:20:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:20:18][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[15:20:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:20:18][INFO ][NoticeController.java:33] - ntop3.do run....
+[15:20:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[15:20:18][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[15:20:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[15:20:18][INFO ][BoardController.java:36] - btop3.do run....
+[15:20:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:20:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[15:20:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[15:20:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:09:56][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[16:09:58][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2207 ms
+[16:09:59][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[16:10:01][INFO ][FrameworkServlet.java:546] - Completed initialization in 2326 ms
+[16:10:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:10:39][DEBUG][LoggerInterceptor.java:32] - /second/moveAjax.do
+[16:10:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:10:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:10:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:10:41][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:10:41][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[16:10:41][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:10:41][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:10:41][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:10:49][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:10:49][DEBUG][LoggerInterceptor.java:32] - /second/enrollBcrypto.do
+[16:10:49][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:10:49][INFO ][TestController.java:67] - user : CryptoUser [userid=user01, userpwd=1234, username=이름]
+[16:10:50][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:10:50][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:10:50][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:10:50][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[16:10:50][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:10:50][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:10:50][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[16:10:50][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:10:50][INFO ][BoardController.java:36] - btop3.do run....
+[16:10:50][INFO ][NoticeController.java:33] - ntop3.do run....
+[16:10:50][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:10:50][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:10:50][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:10:50][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:13:04][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:13:04][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[16:13:04][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:13:04][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:13:04][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:13:05][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:13:05][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[16:13:05][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:13:05][INFO ][NoticeController.java:33] - ntop3.do run....
+[16:13:05][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:13:05][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[16:13:05][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:13:05][INFO ][BoardController.java:36] - btop3.do run....
+[16:13:05][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:13:05][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:13:05][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:13:05][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:45:03][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[16:45:05][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2187 ms
+[16:45:05][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[16:45:07][INFO ][FrameworkServlet.java:546] - Completed initialization in 2258 ms
+[16:45:08][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:45:08][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[16:45:08][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:45:08][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:45:08][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[16:45:08][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:45:08][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:45:08][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:45:08][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:45:08][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:45:38][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:45:38][DEBUG][LoggerInterceptor.java:32] - /second/loginBcrypto.do
+[16:45:38][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:45:38][INFO ][TestController.java:85] - 암호화 로그인 테스트
+[16:45:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:45:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:45:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:45:39][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[16:45:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:45:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:45:39][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[16:45:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:45:39][INFO ][NoticeController.java:33] - ntop3.do run....
+[16:45:39][INFO ][BoardController.java:36] - btop3.do run....
+[16:45:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:45:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:45:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:45:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:50:18][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:50:18][DEBUG][LoggerInterceptor.java:32] - /second/moveAjax.do
+[16:50:18][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:50:18][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:50:18][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:50:20][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:50:20][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[16:50:20][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:50:20][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:50:20][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:50:26][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:50:26][DEBUG][LoggerInterceptor.java:32] - /second/loginBcrypto.do
+[16:50:26][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:50:26][INFO ][TestController.java:85] - 암호화 로그인 테스트
+[16:50:26][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:50:26][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:53:45][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[16:53:47][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2090 ms
+[16:53:47][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[16:53:50][INFO ][FrameworkServlet.java:546] - Completed initialization in 2208 ms
+[16:54:48][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:54:48][DEBUG][LoggerInterceptor.java:32] - /second/loginBcrypto.do
+[16:54:48][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:54:48][INFO ][TestController.java:85] - 암호화 로그인 테스트
+[16:54:49][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:54:50][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:54:57][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[16:54:59][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2211 ms
+[16:54:59][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[16:55:02][INFO ][FrameworkServlet.java:546] - Completed initialization in 2280 ms
+[16:55:02][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:02][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[16:55:02][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:02][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:02][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:02][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:02][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:02][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[16:55:02][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:02][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[16:55:02][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:02][INFO ][BoardController.java:36] - btop3.do run....
+[16:55:02][INFO ][NoticeController.java:33] - ntop3.do run....
+[16:55:03][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:03][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:03][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:03][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:03][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:03][DEBUG][LoggerInterceptor.java:32] - /second/moveCrypto.do
+[16:55:03][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:03][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:03][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:06][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:06][DEBUG][LoggerInterceptor.java:32] - /second/loginBcrypto.do
+[16:55:06][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:06][INFO ][TestController.java:85] - 암호화 로그인 테스트
+[16:55:06][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:06][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:09][WARN ][DispatcherServlet.java:1248] - No mapping for GET /second/index.do
+[16:55:30][INFO ][ContextLoader.java:270] - Root WebApplicationContext: initialization started
+[16:55:32][INFO ][ContextLoader.java:306] - Root WebApplicationContext initialized in 2098 ms
+[16:55:33][INFO ][FrameworkServlet.java:524] - Initializing Servlet 'appServlet'
+[16:55:35][INFO ][FrameworkServlet.java:546] - Completed initialization in 2313 ms
+[16:55:37][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:37][DEBUG][LoggerInterceptor.java:32] - /second/loginBcrypto.do
+[16:55:37][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:37][INFO ][TestController.java:85] - 암호화 로그인 테스트
+[16:55:38][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:38][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:39][DEBUG][LoggerInterceptor.java:32] - /second/main.do
+[16:55:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:39][DEBUG][LoggerInterceptor.java:32] - /second/ntop3.do
+[16:55:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:39][DEBUG][LoggerInterceptor.java:30] - =============START===============
+[16:55:39][DEBUG][LoggerInterceptor.java:32] - /second/btop3.do
+[16:55:39][DEBUG][LoggerInterceptor.java:33] - -------------------------------------------------------
+[16:55:39][INFO ][NoticeController.java:33] - ntop3.do run....
+[16:55:39][INFO ][BoardController.java:36] - btop3.do run....
+[16:55:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:39][DEBUG][LoggerInterceptor.java:47] - ===============view===============
+[16:55:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
+[16:55:39][DEBUG][LoggerInterceptor.java:58] - ================END===============
